@@ -1,0 +1,15 @@
+body{
+    background: darkgrey;
+}
+.clock{
+    font-size: 4rem;
+    font-family: Arial;
+    text-align: center;
+    margin: 200px auto;
+    color:  gold;
+}
+.clock span{
+    padding: 20px;
+    background: rgb(155, 152, 152);
+    border-radius: 15px;
+}
